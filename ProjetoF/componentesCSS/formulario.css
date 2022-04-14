@@ -1,0 +1,36 @@
+.formulario{
+  display: flex;
+  flex-direction: column;
+  max-width: 960px;
+  height: 480px;
+  flex-wrap: nowrap;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: -133px;
+}
+
+.second-title{
+  margin-top: 12px;
+  font-family: "Plus Jakarta Sans", Arial, sans-serif;
+  font-size: 30px;
+  color: black;
+}
+
+.caixa{
+  display: block;
+  height:35px;
+  border:none;
+  border-bottom: 2px solid  rgb(3, 80, 78);
+  font-size: 22px;
+  font-family: "Playfair Display";
+  padding-left: 8px;
+  outline: none;
+  margin-top: 12px;
+}

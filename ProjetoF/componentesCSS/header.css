@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    height: 125px;
+    background-color: rgb(3, 80, 78);
+    align-items: center;
+}
+
+.main-title{
+    display: flex;
+    font-family: "Vazirmatn", Arial, sans-serif;
+    color: white;
+    margin-left: 150px;
+    font-size: 70px;
+}
+
+
